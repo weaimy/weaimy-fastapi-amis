@@ -1,0 +1,1 @@
+# weaimy-fastapi-amis
